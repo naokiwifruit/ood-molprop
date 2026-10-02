@@ -1,6 +1,6 @@
 # ood-molprop
 
-Data sets and code for the paper
+Code and data sets for the paper:
 
 **Improving Molecular Property Prediction in Out-of-Distribution Chemical Space Using Ensemble Models and Data Augmentation**
 
