@@ -2,7 +2,7 @@
 
 Code and data sets for the paper:
 
-**Improving Molecular Property Prediction in Out-of-Distribution Chemical Space Using Ensemble Models and Data Augmentation**
+**Improving Out-of-Distribution Molecular Property Prediction from a Few Analog Series Using Ensemble Models and Data Augmentation**
 
 The repository contains
 
